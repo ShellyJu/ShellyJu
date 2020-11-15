@@ -1,4 +1,4 @@
-### Hi there, I'm Shelly. 👋
+## Hi there, I'm Shelly. 👋
 ## I'm a junior front-end web developer. 
 
 - 👩‍🎓 I nearly complish my course of front-end web design.

@@ -7,6 +7,9 @@
 - 🥅 2021 Goals: Understand python and machine learning.
 - ⚡ Fun fact: I love to draw(game art) and photograph.
 
+<br>
+---
+
 ### Connect with me:
 
 [<img align="left" alt="Shelly Ju" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

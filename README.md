@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Understand python and machine learning.
 - ⚡ Fun fact: I love to draw(game art) and photograph.
 
-###
+<hr>
 
 ### Connect with me:
 

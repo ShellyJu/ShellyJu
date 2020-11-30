@@ -1,8 +1,8 @@
 ### Hi there, I'm Shelly. 👋
 ## I'm a junior front-end web developer. 
 
-- 👩‍🎓 I nearly complish my course of front-end web design.
-- 🌱 I’m currently learning react native and more frameworks.
+- 👩‍🎓 I have complished my course of front-end web design.
+- 🌱 I’m currently learning react native, Vue js and more frameworks.
 - 💻 I’m looking to be part of a team of website development.
 - 🥅 2021 Goals: Understand python and machine learning.
 - ⚡ Fun fact: I love to draw(game art) and photograph.

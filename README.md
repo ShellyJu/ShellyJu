@@ -46,4 +46,4 @@
 [website]: https://shellyju.github.io/portfolio/#
 [instagram]: https://instagram.com/youlianju
 [facebook]: https://www.facebook.com/youlian.ju
-[linkedin]: https://www.linkedin.com/in/you-lian-zhu-baaa56149
+[linkedin]: www.linkedin.com/in/you-lian-zhu

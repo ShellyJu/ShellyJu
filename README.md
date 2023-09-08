@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning react native, Vue js and more frameworks.
 - 💻 I’m looking to be part of a team of website development.
 - 🥅 2021 Goals: Understand python and machine learning.
-- ⚡ Fun fact: I love to draw(game art) and photograph.
+- ⚡ Fun fact: I love drawing (game art) and photographing.
 
 ### Connect with me:
 
